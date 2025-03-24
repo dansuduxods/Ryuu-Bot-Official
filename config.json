@@ -1,7 +1,7 @@
 {
     "prefix": "/",
-    "owner": "Owner Name",
-    "botname": "Bot Name",
+    "owner": "Daniel",
+    "botname": "gujobot",
     "apiOptions": {
         "forceLogin": false,
         "logLevel": "silent",
@@ -15,7 +15,7 @@
         "listenEvents": true
     },
     "adminBot": [
-        "Owner UID"
+        "61554405703021"
     ],
     "autoLoad": true,
     "autopost": true,
